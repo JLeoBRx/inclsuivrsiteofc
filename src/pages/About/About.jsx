@@ -74,7 +74,7 @@ export const About = () => {
               color={blue}
               data={{
                 title: "Victor Sad de Souza",
-                p: "Empreendedor e advogado especializado em inovação. Oferece apoio jurídico, administrativo e de negócios à InclusiVR e atua no atendimento a empresas de tecnologia na solução de desafios legais. É aluno do programa de Residência em Empreendedorismo e Inovação da USP (NIDUS).",
+                p: "Empreendedor e advogado especializado em inovação. Oferece apoio jurídico, administrativo e de negócios à InclusiVR e atua no atendimento a empresas de tecnologia na solução de desafios legais.",
                 image: highschool,
               }}
             />
@@ -82,7 +82,7 @@ export const About = () => {
               color={blue}
               data={{
                 title: "Fauston",
-                p: "Licenciado em Artes Cênicas pela Universidade de São Paulo. Professor, intérprete de LIBRAS, ator, dançarino e pesquisador. Atualmente é professor de arte da rede pública da cidade de São Paulo. Mestrando na Faculdade de Educação da Universidade de São Paulo, tem sua pesquisa voltada à Educação Inclusiva, com ênfase na educação de pessoas surdas.",
+                p: "Licenciado em Artes Cênicas pela Universidade de São Paulo. Professor, intérprete de LIBRAS, ator, dançarino e pesquisador. Atualmente é professor de arte da rede pública da cidade de São Paulo.",
                 image: highschool,
               }}
             />
