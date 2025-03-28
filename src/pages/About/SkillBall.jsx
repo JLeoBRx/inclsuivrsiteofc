@@ -13,20 +13,20 @@ const Skills = () => {
     return b > 0.5 ? a * k : a * -1 * k;
   };
   const skills = [
-    "Python",
-    "JavaScript",
-    "TypeScript",
-    "Dart",
-    "HTML",
-    "CSS",
-    "Django",
-    "Flutter",
-    "ReactJs",
-    "NextJS",
-    "NodeJs",
-    "ExpressJS",
-    "ThreeJs",
-    "Redux",
+    "Realidade Virtual",
+    "IA",
+    "Realidade Aumentada",
+    "Tecnologia",
+    "Inclusão",
+    "Libras",
+    "Desenvolvimento",
+    "Aplicativos",
+    "Softwares",
+    "Livros",
+    "Interações",
+    "Educação Ativa",
+    "Gamificação",
+    "WebAR",
   ];
   const g = useRef();
   useFrame(() => {
