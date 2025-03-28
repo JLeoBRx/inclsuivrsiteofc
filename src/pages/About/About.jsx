@@ -49,12 +49,9 @@ export const About = () => {
       <Page header="Sobre">
         <Text>
           <Paragraph>
-            Este site nasceu para hospedar os audiodramas da série Doctor Who
-            das quais realizo tradução e legendas, permitindo acesso livre para os fãs. 
-            Todo material é livre para compartilhar sem necessário citar fonte.
-            <br />Você também encontrará as traduções da revista Magazine Doctor Who,
-            que traduço diariamente, visando o objetivo de traduzir todas as revistas de 2025.
-            Seja bem vindo para acompanhar, participar ou até auxiliar. Fiquem à vontade!
+          Somos uma startup brasileira focada no desenvolvimento de tecnologia para 
+          a comunidade surda, como livros em realidade aumentada e jogos 
+          em realidade virtual.
           </Paragraph>
           <Educations>
             <AboutItem
