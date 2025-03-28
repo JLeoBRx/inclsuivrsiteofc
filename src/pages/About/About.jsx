@@ -57,7 +57,7 @@ export const About = () => {
             <AboutItem
               color={blue}
               data={{
-                title: "Luciano",
+                title: "Luciano Delphino de Azevedo Júnior",
                 p: "Psicólogo formado na UNESP de Bauru, atualmente cursando Mestrado na Escola de Enfermagem de Ribeirão Preto. Técnico em Eletrônica pela ETEC Albert Einstein.",
                 image: highschool,
               }}
@@ -65,16 +65,16 @@ export const About = () => {
             <AboutItem
               color={blue}
               data={{
-                title: "Maria",
-                p: "High School (2017-2019)",
+                title: "Maria Clara Franco Cardoso",
+                p: "Bacharel em Ciências Sociais pela Universidade de São Paulo, atua na área de pesquisa de mercado e tem experiência na implementação de projetos voltados ao público geral.",
                 image: highschool,
               }}
             />
             <AboutItem
               color={blue}
               data={{
-                title: "Victor",
-                p: "High School (2017-2019)",
+                title: "Victor Sad de Souza",
+                p: "Empreendedor e advogado especializado em inovação. Oferece apoio jurídico, administrativo e de negócios à InclusiVR e atua no atendimento a empresas de tecnologia na solução de desafios legais. É aluno do programa de Residência em Empreendedorismo e Inovação da USP (NIDUS).",
                 image: highschool,
               }}
             />
@@ -82,7 +82,7 @@ export const About = () => {
               color={blue}
               data={{
                 title: "Fauston",
-                p: "High School (2017-2019)",
+                p: "Licenciado em Artes Cênicas pela Universidade de São Paulo. Professor, intérprete de LIBRAS, ator, dançarino e pesquisador. Atualmente é professor de arte da rede pública da cidade de São Paulo. Mestrando na Faculdade de Educação da Universidade de São Paulo, tem sua pesquisa voltada à Educação Inclusiva, com ênfase na educação de pessoas surdas.",
                 image: highschool,
               }}
             />
@@ -90,7 +90,7 @@ export const About = () => {
               color={blue}
               data={{
                 title: "Leonardo Martins",
-                p: "Secondary Education (2007-2017)",
+                p: "Atuo com desenvolvimentos de jogos em realidade estendida, especialmente experiências imersivas em realidade virtual. No momento estou em Registro/SP e incluo o time de desenvolvimento do InclusiVR.",
                 image: sos,
               }}
               
