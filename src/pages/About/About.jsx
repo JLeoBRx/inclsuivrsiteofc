@@ -56,25 +56,16 @@ export const About = () => {
           <Educations>
             <AboutItem
               color={blue}
-              active
-              data={{
-                title: "D.Y. Patil college of engineering, Pune",
-                p: "Bachelors of Computer Engineering (2019-2023)",
-                image: dyp,
-              }}
-            />
-            <AboutItem
-              color={blue}
               data={{
                 title: "Luciano",
-                p: "High School (2017-2019)",
+                p: "Psicólogo formado na UNESP de Bauru, atualmente cursando Mestrado na Escola de Enfermagem de Ribeirão Preto. Técnico em Eletrônica pela ETEC Albert Einstein.",
                 image: highschool,
               }}
             />
             <AboutItem
               color={blue}
               data={{
-                title: "maria",
+                title: "Maria",
                 p: "High School (2017-2019)",
                 image: highschool,
               }}
