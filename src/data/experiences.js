@@ -11,7 +11,7 @@ export const experiences = [
     name: "Stealth Startup",
     joined: "Sept'22",
     end: "Feb'23",
-    title: "Obras legendadas do inglês/PTBR",
+    title: "Exemplo de alguma exp",
     bio: "Utilized ExpressJS for backend authentication and rate limitation. The frontend ReactJS code was optimized, eliminating re-renders to enhance performance and user experience. A ReactJS and ExpressJS-based admin panel was developed for data visualization and transaction management.",
     color: blue,
   },
