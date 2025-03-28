@@ -72,15 +72,15 @@ export const About = () => {
               }}
             />
             <AboutItem
-              color={green}
+              color={orange}
               data={{
-                title: "maria",
+                title: "Maria",
                 p: "High School (2017-2019)",
                 image: highschool,
               }}
             />
             <AboutItem
-              color={green}
+              color={white}
               data={{
                 title: "Victor",
                 p: "High School (2017-2019)",
@@ -88,7 +88,7 @@ export const About = () => {
               }}
             />
             <AboutItem
-              color={green}
+              color={purple}
               data={{
                 title: "Fauston",
                 p: "High School (2017-2019)",
