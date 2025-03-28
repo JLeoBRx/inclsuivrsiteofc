@@ -40,13 +40,13 @@ export const Home = () => {
   return (
     <HomeWrapper ref={ref} id="home-page">
       <TextContainer>
-        <Name>Acervo Who</Name>
+        <Name>InclusiVR</Name>
         <Position>
-          <div className="text first" aria-label="Obras Whovians Traduzidas">
-            {produceSpans("Traduções Whovians")}
+          <div className="text first" aria-label="InclusiVR">
+            {produceSpans("Tecnologias Inclusivas")}
           </div>
-          <div className="text second" aria-label="Obras Whovains Legendadas">
-            {produceSpans("Legendas Whovians")}
+          <div className="text second" aria-label="InclusiVR">
+            {produceSpans("Tecnologias Aplicadas")}
           </div>
         </Position>
       </TextContainer>
