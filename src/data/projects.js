@@ -6,24 +6,24 @@ import getv from "../assets/images/get-v.jpg";
 
 export const projects = [
   {
-    title: "Get Vulnerable",
+    title: "Livros em AR",
     image: getv,
-    link: "https://get-vulnerable.teshank.dev",
+    link: "https://www.google.com",
     description:
-      "Game which encourages the players to open up by asking questions",
+      "Descrição do Projeto",
   },
   {
-    title: "Semicolon",
+    title: "Jogo de Libras em VR",
     image: semicolon,
-    link: "https://github.com/teshank2137/semicolon.md",
+    link: "https://www.google.com",
     description:
-      "Mental health support by predicting and offering activities for mood upliftment.",
+      "Descrição do Projeto.",
   },
   {
-    title: "Send form to me",
+    title: "App IA de Libras",
     image: sendfrom,
-    link: "https://sendformto.me",
+    link: "https://www.google.com",
     description:
-      "Backend-as-a-service for creating forms with unique URLs and email notifications.",
+      "Descrição do Projeto.",
   },
 ];
