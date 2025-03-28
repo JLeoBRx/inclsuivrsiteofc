@@ -66,7 +66,31 @@ export const About = () => {
             <AboutItem
               color={green}
               data={{
-                title: "M.P. Deo D. Science College, Nagpur",
+                title: "Luciano",
+                p: "High School (2017-2019)",
+                image: highschool,
+              }}
+            />
+            <AboutItem
+              color={green}
+              data={{
+                title: "maria",
+                p: "High School (2017-2019)",
+                image: highschool,
+              }}
+            />
+            <AboutItem
+              color={green}
+              data={{
+                title: "Victor",
+                p: "High School (2017-2019)",
+                image: highschool,
+              }}
+            />
+            <AboutItem
+              color={green}
+              data={{
+                title: "Fauston",
                 p: "High School (2017-2019)",
                 image: highschool,
               }}
@@ -74,10 +98,11 @@ export const About = () => {
             <AboutItem
               color={yellow}
               data={{
-                title: "School of Scholars, Nagpur",
+                title: "Leonardo Martins",
                 p: "Secondary Education (2007-2017)",
                 image: sos,
               }}
+              
             />
           </Educations>
         </Text>
