@@ -84,13 +84,13 @@ export const Contact = () => {
             </a>
 
             <a
-              href="https://drive.google.com/file/d/1zp5khZY8XGJllzt2D8K0K47yqEk_Lkj5/view?usp=sharing"
+              href="https://drive.google.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <DownloadButton bg={red} tooltip="Download">
                 <AiOutlineDownload size={40} />
-                <span>Resume</span>
+                <span>Planner</span>
               </DownloadButton>
             </a>
           </div>
